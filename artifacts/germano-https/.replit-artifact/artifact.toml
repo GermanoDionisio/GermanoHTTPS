@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Germano.HTTPS | Dionisio Tech"
+description = "Portal pessoal de tecnologia, desenvolvimento e conhecimento prático de Germano Dionisio, com conteúdos educacionais, projetos, serviços e contato profissional."
+version = "1.0.0"
+id = "artifacts/germano-https"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 19114
+
+[services.development]
+run = "pnpm --filter @workspace/germano-https run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/germano-https", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/germano-https/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "19114"
+BASE_PATH = "/"

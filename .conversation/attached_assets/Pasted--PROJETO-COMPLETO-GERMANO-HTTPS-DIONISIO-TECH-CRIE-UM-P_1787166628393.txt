@@ -1,0 +1,2000 @@
+# 🚀 PROJETO COMPLETO — GERMANO.HTTPS | DIONISIO TECH
+
+## CRIE UM PORTAL PROFISSIONAL DE TECNOLOGIA, CONHECIMENTO, DESENVOLVIMENTO E CONTEÚDO
+
+Quero criar um site extremamente profissional para minha marca pessoal:
+
+# GERMANO.HTTPS
+
+### DIONISIO TECH
+
+Descrição:
+
+**Dev | Tecnologia da Informação | Desenvolvimento | IA | Dicas de Tecnologia**
+
+O site não deve ser apenas um portfólio.
+
+Quero criar uma verdadeira **plataforma pessoal de conhecimento sobre Tecnologia da Informação**, onde pessoas possam entrar para:
+
+* aprender programação;
+* aprender linguagens;
+* entender tecnologias;
+* aprender desenvolvimento web;
+* aprender Git e GitHub;
+* aprender suporte técnico;
+* entender hardware;
+* aprender a montar computadores;
+* entender arquitetura de computadores;
+* aprender redes;
+* aprender Linux;
+* aprender banco de dados;
+* estudar Inteligência Artificial;
+* estudar Machine Learning;
+* conhecer ferramentas;
+* acompanhar novidades;
+* conhecer meus projetos;
+* conhecer minha trajetória;
+* entrar em contato comigo;
+* contratar serviços;
+* acompanhar minhas redes sociais.
+
+O site precisa representar um profissional de tecnologia que **aprende, desenvolve, testa, explica e compartilha conhecimento**.
+
+---
+
+# ⚠️ REGRA MAIS IMPORTANTE DO PROJETO: ANIMAÇÕES DO INÍCIO AO FIM
+
+## NÃO quero um site com animação apenas no primeiro bloco.
+
+Quero que **TODO O SITE seja animado**.
+
+Desde o momento em que o usuário abre a página até o último elemento do footer, deve existir uma experiência visual dinâmica, moderna e profissional.
+
+### O fundo também deve permanecer animado durante TODO o site.
+
+Não quero:
+
+Hero animado → restante estático.
+
+Quero:
+
+**Hero animado → Sobre animado → Conhecimentos animados → Linguagens animadas → Conteúdos animados → Hardware animado → Suporte Técnico animado → Git animado → Projetos animados → Serviços animados → Contato animado → Footer animado.**
+
+O fundo deve acompanhar toda a experiência.
+
+---
+
+# 🌌 FUNDO ANIMADO GLOBAL
+
+Criar um componente:
+
+`AnimatedGlobalBackground`
+
+Esse fundo deve ficar presente **do início ao fim da página**.
+
+Ele deve acompanhar todas as seções.
+
+Criar uma composição visual sofisticada utilizando:
+
+* partículas;
+* pontos luminosos;
+* linhas tecnológicas;
+* gradientes animados;
+* blobs de luz;
+* ondas;
+* grids;
+* elementos geométricos;
+* pequenos elementos de código;
+* partículas conectadas;
+* efeitos de profundidade;
+* glow;
+* iluminação dinâmica;
+* movimento lento de background;
+* parallax;
+* efeitos de rede neural.
+
+O fundo deve transmitir a sensação de:
+
+**IA + programação + circuitos + internet + rede neural + universo digital.**
+
+---
+
+# 🎨 CORES DO FUNDO
+
+Utilizar principalmente:
+
+* preto;
+* preto azulado;
+* grafite;
+* roxo;
+* violeta;
+* magenta;
+* azul elétrico;
+* ciano.
+
+Criar gradientes animados entre essas cores.
+
+Exemplo:
+
+**Roxo → Magenta → Azul → Ciano**
+
+O fundo não deve ficar parado.
+
+Deve existir movimento visual contínuo e extremamente suave.
+
+---
+
+# ✨ BACKGROUND REATIVO AO SCROLL
+
+Conforme o usuário rola a página, o fundo pode mudar sutilmente.
+
+Exemplo:
+
+### Hero
+
+Roxo + azul
+
+### Sobre
+
+Azul + ciano
+
+### Programação
+
+Roxo + magenta
+
+### Hardware
+
+Azul + violeta
+
+### IA
+
+Roxo + azul elétrico
+
+### Projetos
+
+Ciano + azul
+
+### Contato
+
+Magenta + roxo
+
+Essas mudanças devem ser graduais.
+
+Nunca trocar as cores de forma brusca.
+
+---
+
+# 🌀 ANIMAÇÃO DURANTE O SCROLL
+
+Quero que a rolagem da página seja parte da experiência.
+
+Utilizar:
+
+* scroll reveal;
+* parallax;
+* fade;
+* scale;
+* blur;
+* slide;
+* stagger;
+* transformação de elementos;
+* mudança de opacidade;
+* deslocamento;
+* efeitos de profundidade.
+
+Cada seção deve possuir uma identidade de animação.
+
+---
+
+# 🎬 CADA SEÇÃO DEVE TER ANIMAÇÃO PRÓPRIA
+
+Não utilizar a mesma animação em todas as seções.
+
+Exemplo:
+
+## Hero
+
+Fade + scale + elementos flutuantes.
+
+## Sobre
+
+Texto entrando pela esquerda e imagem pela direita.
+
+## Tecnologias
+
+Cards entrando em sequência.
+
+## Linguagens
+
+Cards surgindo com stagger.
+
+## Programação
+
+Elementos de código aparecendo.
+
+## Hardware
+
+Componentes aparecendo como peças.
+
+## Suporte técnico
+
+Fluxo de diagnóstico animado.
+
+## Git
+
+Branches e commits animados.
+
+## Redes
+
+Nós conectando uns aos outros.
+
+## IA
+
+Rede neural animada.
+
+## Projetos
+
+Cards com efeito 3D.
+
+## Contato
+
+Elementos surgindo suavemente.
+
+## Footer
+
+Fade + glow + partículas.
+
+---
+
+# 🖱️ HOVER EM TODO O SITE
+
+Todos os elementos interativos devem possuir animações.
+
+Ao passar o mouse:
+
+* cards levantam;
+* bordas brilham;
+* gradientes mudam;
+* ícones aumentam;
+* imagens possuem zoom;
+* botões possuem glow;
+* textos podem mudar suavemente;
+* pequenos elementos se movimentam.
+
+Criar microinterações.
+
+Porém:
+
+**NÃO exagerar.**
+
+Quero aparência de produto premium.
+
+---
+
+# 🧲 EFEITO MAGNÉTICO
+
+Nos principais botões, implementar efeito magnético sutil.
+
+Quando o cursor se aproxima:
+
+o botão acompanha levemente o cursor.
+
+Ao sair:
+
+volta suavemente para a posição original.
+
+Utilizar apenas no desktop.
+
+---
+
+# 🖱️ CURSOR
+
+Criar cursor tecnológico customizado no desktop.
+
+Um pequeno ponto luminoso + círculo sutil.
+
+Ao passar sobre:
+
+* botão;
+* card;
+* link;
+* imagem;
+* tecnologia;
+
+o cursor muda levemente.
+
+No mobile:
+
+desativar.
+
+---
+
+# 📜 NAVEGAÇÃO
+
+Navbar fixa.
+
+Itens:
+
+* Início
+* Sobre
+* Linguagens
+* Tecnologias
+* Conteúdos
+* Hardware
+* Suporte Técnico
+* Git & GitHub
+* Redes
+* IA
+* Projetos
+* Serviços
+* Contato
+
+No scroll:
+
+Navbar deve possuir:
+
+* blur;
+* glassmorphism;
+* transparência;
+* sombra;
+* borda;
+* mudança de intensidade.
+
+---
+
+# 👨‍💻 HERO
+
+Título:
+
+# Olá, eu sou Germano.
+
+Destaque:
+
+# Tecnologia, desenvolvimento e inovação.
+
+Texto:
+
+**Compartilho conhecimento sobre Tecnologia da Informação, programação, desenvolvimento, hardware, inteligência artificial, suporte técnico, redes e tudo que envolve o universo tech.**
+
+Botões:
+
+**Explorar conhecimentos**
+
+**Ver meus projetos**
+
+**Entrar em contato**
+
+Ao lado:
+
+Criar composição visual futurista com:
+
+* logo;
+* código;
+* partículas;
+* IA;
+* elementos flutuantes;
+* linhas;
+* cards;
+* símbolos de programação.
+
+Adicionar:
+
+`</>`
+
+`{ }`
+
+`AI`
+
+`DEV`
+
+`TECH`
+
+`01`
+
+Tudo com animação.
+
+---
+
+# 👤 SOBRE MIM
+
+Criar seção:
+
+# Quem sou eu?
+
+Apresentar Germano como:
+
+* criador de conteúdo;
+* desenvolvedor;
+* estudante de tecnologia;
+* profissional de TI;
+* entusiasta de IA;
+* pessoa interessada em hardware;
+* pessoa que gosta de aprender e compartilhar conhecimento.
+
+Criar uma narrativa humana.
+
+Não quero um texto corporativo genérico.
+
+---
+
+# 🧠 CENTRAL DE CONHECIMENTO
+
+Criar uma das maiores áreas do site:
+
+# Central de Conhecimento
+
+Texto:
+
+**Aprenda tecnologia de forma prática, visual e organizada.**
+
+Criar categorias:
+
+* Programação
+* Desenvolvimento Web
+* Backend
+* Frontend
+* Full Stack
+* Banco de Dados
+* Git
+* GitHub
+* Hardware
+* Arquitetura de Computadores
+* Suporte Técnico
+* Redes
+* Linux
+* Segurança
+* Inteligência Artificial
+* Machine Learning
+* Ferramentas
+* Produtividade
+* Carreira
+
+Cada categoria deve abrir uma página própria.
+
+---
+
+# 💻 LINGUAGENS DE PROGRAMAÇÃO
+
+Criar uma seção extremamente completa:
+
+# Linguagens de Programação
+
+IMPORTANTE:
+
+Não chamar tecnologias, frameworks e ferramentas de "linguagens" incorretamente.
+
+Separar corretamente:
+
+### Linguagens
+
+* HTML
+* CSS
+* JavaScript
+* TypeScript
+* Python
+* SQL
+
+### Frameworks / Bibliotecas
+
+* React
+* Node.js
+* Prisma
+
+### Ferramentas / Plataformas
+
+* Git
+* GitHub
+* Docker
+* Supabase
+
+Explicar cada tecnologia individualmente.
+
+---
+
+# HTML
+
+Criar conteúdo explicando:
+
+**O que é HTML?**
+
+Explicar que HTML é a linguagem de marcação utilizada para estruturar páginas web.
+
+Explicar:
+
+* elementos;
+* tags;
+* atributos;
+* headings;
+* parágrafos;
+* links;
+* imagens;
+* listas;
+* tabelas;
+* formulários;
+* semântica;
+* HTML5;
+* acessibilidade.
+
+Adicionar exemplos de código.
+
+Exemplo:
+
+```html
+<h1>Olá, mundo!</h1>
+<p>Meu primeiro conteúdo.</p>
+```
+
+Criar explicações visuais.
+
+---
+
+# CSS
+
+Explicar:
+
+**O que é CSS?**
+
+Mostrar:
+
+* seletores;
+* propriedades;
+* classes;
+* IDs;
+* box model;
+* margin;
+* padding;
+* flexbox;
+* grid;
+* position;
+* responsive design;
+* media queries;
+* animações;
+* transitions;
+* pseudo-classes;
+* pseudo-elements;
+* variáveis CSS.
+
+Adicionar exemplos visuais.
+
+Criar playground futuramente.
+
+---
+
+# JAVASCRIPT
+
+Explicar:
+
+* variáveis;
+* let;
+* const;
+* tipos;
+* operadores;
+* funções;
+* arrays;
+* objetos;
+* loops;
+* condicionais;
+* DOM;
+* eventos;
+* promises;
+* async/await;
+* fetch;
+* APIs;
+* módulos;
+* tratamento de erros.
+
+Criar exemplos práticos.
+
+---
+
+# TYPESCRIPT
+
+Explicar:
+
+* o que é TypeScript;
+* diferença entre JS e TS;
+* tipos;
+* interfaces;
+* type;
+* enums;
+* generics;
+* union;
+* intersection;
+* funções tipadas;
+* objetos;
+* classes;
+* boas práticas.
+
+Mostrar exemplos comparando:
+
+JavaScript
+
+vs.
+
+TypeScript.
+
+---
+
+# PYTHON
+
+Explicar:
+
+* sintaxe;
+* variáveis;
+* tipos;
+* listas;
+* dicionários;
+* funções;
+* classes;
+* módulos;
+* ambientes virtuais;
+* pip;
+* automação;
+* APIs;
+* análise de dados;
+* IA;
+* Machine Learning.
+
+Criar exemplos práticos.
+
+---
+
+# SQL
+
+Criar uma seção específica.
+
+Explicar:
+
+* banco de dados;
+* tabelas;
+* registros;
+* SELECT;
+* INSERT;
+* UPDATE;
+* DELETE;
+* WHERE;
+* JOIN;
+* GROUP BY;
+* ORDER BY;
+* índices;
+* relacionamentos;
+* chaves primárias;
+* chaves estrangeiras;
+* normalização.
+
+Mostrar exemplos.
+
+---
+
+# ⚛️ REACT
+
+Criar uma seção específica.
+
+Explicar que React é uma biblioteca para construção de interfaces.
+
+Explicar:
+
+* componentes;
+* JSX;
+* props;
+* state;
+* hooks;
+* useState;
+* useEffect;
+* eventos;
+* renderização;
+* componentização;
+* Context;
+* consumo de APIs;
+* organização de projetos.
+
+---
+
+# 🟢 NODE.JS
+
+Explicar:
+
+* o que é Node.js;
+* runtime JavaScript;
+* npm;
+* módulos;
+* APIs;
+* servidores;
+* Express;
+* autenticação;
+* banco de dados;
+* variáveis de ambiente;
+* backend.
+
+Criar exemplos.
+
+---
+
+# 🐳 DOCKER
+
+Explicar:
+
+* containers;
+* imagens;
+* Dockerfile;
+* Docker Compose;
+* volumes;
+* networks;
+* containers de banco;
+* ambientes de desenvolvimento.
+
+Criar exemplos visuais.
+
+Mostrar:
+
+```text
+Aplicação
+    ↓
+Container
+    ↓
+Banco de Dados
+```
+
+---
+
+# 🗄️ POSTGRESQL
+
+Explicar:
+
+* banco relacional;
+* tabelas;
+* schemas;
+* relacionamentos;
+* queries;
+* índices;
+* constraints;
+* transações;
+* usuários;
+* permissões.
+
+---
+
+# SUPABASE
+
+Explicar:
+
+* banco PostgreSQL;
+* autenticação;
+* storage;
+* APIs;
+* realtime;
+* backend services.
+
+Mostrar aplicações práticas.
+
+---
+
+# PRISMA
+
+Explicar:
+
+* ORM;
+* schema;
+* models;
+* migrations;
+* queries;
+* relacionamento entre tabelas.
+
+---
+
+# 🔀 GIT
+
+Criar uma seção extremamente completa:
+
+# Git — Controle de versão
+
+Explicar desde o nível iniciante.
+
+Conteúdos:
+
+* o que é Git;
+* Git vs GitHub;
+* repositório;
+* commit;
+* branch;
+* merge;
+* clone;
+* pull;
+* push;
+* fetch;
+* checkout;
+* switch;
+* add;
+* commit;
+* log;
+* status;
+* diff;
+* stash;
+* reset;
+* revert;
+* rebase;
+* cherry-pick;
+* tags;
+* conflitos.
+
+---
+
+# GUIA DE GIT PARA INICIANTES
+
+Criar tutorial:
+
+```bash
+git init
+```
+
+Depois:
+
+```bash
+git add .
+```
+
+Depois:
+
+```bash
+git commit -m "meu primeiro commit"
+```
+
+Depois:
+
+```bash
+git push
+```
+
+Explicar exatamente o que cada comando faz.
+
+---
+
+# GIT BRANCHES
+
+Criar representação visual:
+
+```text
+main
+  |
+  |---- feature/login
+  |
+  |---- feature/dashboard
+  |
+  |---- feature/api
+```
+
+Animar as branches.
+
+---
+
+# GIT CONFLICT
+
+Explicar:
+
+* por que acontece;
+* como identificar;
+* como resolver;
+* como fazer commit após resolver.
+
+---
+
+# GITHUB
+
+Explicar:
+
+* repositórios;
+* README;
+* Issues;
+* Pull Requests;
+* Actions;
+* Projects;
+* Releases;
+* branches;
+* forks;
+* stars;
+* colaboradores.
+
+Criar exemplos.
+
+---
+
+# 🖥️ SUPORTE TÉCNICO
+
+Criar uma área muito completa:
+
+# Suporte Técnico
+
+Explicar conceitos de suporte técnico de informática.
+
+Categorias:
+
+* diagnóstico;
+* manutenção;
+* formatação;
+* instalação de sistemas;
+* drivers;
+* problemas de rede;
+* problemas de hardware;
+* problemas de software;
+* lentidão;
+* temperatura;
+* armazenamento;
+* memória RAM;
+* periféricos;
+* impressoras;
+* sistemas operacionais.
+
+---
+
+# 🔧 METODOLOGIA DE DIAGNÓSTICO
+
+Criar um fluxo visual:
+
+```text
+Problema
+   ↓
+Identificação
+   ↓
+Coleta de informações
+   ↓
+Testes
+   ↓
+Diagnóstico
+   ↓
+Solução
+   ↓
+Validação
+   ↓
+Documentação
+```
+
+Esse fluxo deve ser animado conforme o usuário rolar.
+
+---
+
+# 🖥️ ARQUITETURA DE COMPUTADORES
+
+Criar uma seção completa:
+
+# Arquitetura de Computadores
+
+Explicar:
+
+* CPU;
+* GPU;
+* RAM;
+* ROM;
+* placa-mãe;
+* chipset;
+* BIOS;
+* UEFI;
+* SSD;
+* HDD;
+* fonte;
+* gabinete;
+* cooler;
+* barramentos;
+* portas;
+* periféricos.
+
+---
+
+# 🧠 CPU
+
+Explicar:
+
+* núcleos;
+* threads;
+* clock;
+* cache;
+* arquitetura;
+* consumo;
+* temperatura;
+* desempenho.
+
+---
+
+# 🎮 GPU
+
+Explicar:
+
+* GPU integrada;
+* GPU dedicada;
+* VRAM;
+* CUDA;
+* Ray Tracing;
+* desempenho;
+* temperatura;
+* consumo.
+
+---
+
+# 💾 MEMÓRIA RAM
+
+Explicar:
+
+* capacidade;
+* frequência;
+* latência;
+* DDR4;
+* DDR5;
+* dual channel;
+* XMP/EXPO;
+* compatibilidade.
+
+---
+
+# 💽 ARMAZENAMENTO
+
+Explicar:
+
+### HDD
+
+### SSD SATA
+
+### SSD NVMe
+
+Comparar:
+
+* velocidade;
+* preço;
+* durabilidade;
+* utilização.
+
+---
+
+# ⚡ FONTE DE ALIMENTAÇÃO
+
+Explicar:
+
+* watts;
+* eficiência;
+* certificações;
+* conectores;
+* capacidade;
+* segurança;
+* dimensionamento.
+
+---
+
+# 🧩 COMO MONTAR UM COMPUTADOR
+
+Criar um guia visual extremamente completo:
+
+# Como montar um PC do zero
+
+Mostrar peça por peça.
+
+Ordem:
+
+1. Escolher CPU;
+2. Escolher placa-mãe;
+3. Escolher RAM;
+4. Escolher armazenamento;
+5. Escolher GPU;
+6. Escolher fonte;
+7. Escolher gabinete;
+8. Escolher cooler;
+9. Montar placa-mãe;
+10. Instalar CPU;
+11. Instalar memória;
+12. Instalar SSD;
+13. Instalar cooler;
+14. Colocar placa-mãe no gabinete;
+15. Instalar fonte;
+16. Instalar GPU;
+17. Conectar cabos;
+18. Conferir montagem;
+19. Ligar;
+20. Configurar BIOS/UEFI;
+21. Instalar sistema operacional;
+22. Instalar drivers;
+23. Testar estabilidade.
+
+Cada etapa deve possuir:
+
+* imagem;
+* explicação;
+* dicas;
+* cuidados;
+* erros comuns.
+
+---
+
+# 🔌 COMPATIBILIDADE DE PEÇAS
+
+Criar conteúdo ensinando o usuário a verificar:
+
+* socket;
+* chipset;
+* RAM;
+* PCIe;
+* fonte;
+* consumo;
+* tamanho do gabinete;
+* refrigeração;
+* conectores.
+
+Criar um sistema visual onde o usuário possa entender se determinadas peças são compatíveis.
+
+---
+
+# 🌐 REDES DE COMPUTADORES
+
+Criar seção:
+
+# Redes
+
+Explicar:
+
+* IP;
+* IPv4;
+* IPv6;
+* MAC;
+* DNS;
+* DHCP;
+* gateway;
+* subnet;
+* roteador;
+* switch;
+* modem;
+* firewall;
+* Wi-Fi;
+* Ethernet;
+* TCP;
+* UDP;
+* HTTP;
+* HTTPS;
+* SSH;
+* VPN.
+
+---
+
+# 🐧 LINUX
+
+Explicar:
+
+* terminal;
+* diretórios;
+* arquivos;
+* permissões;
+* processos;
+* usuários;
+* pacotes;
+* serviços;
+* SSH;
+* bash;
+* comandos.
+
+Criar guia:
+
+```bash
+ls
+cd
+pwd
+mkdir
+rm
+cp
+mv
+cat
+grep
+chmod
+chown
+ps
+top
+systemctl
+```
+
+Explicar cada comando.
+
+---
+
+# 🤖 INTELIGÊNCIA ARTIFICIAL
+
+Criar uma seção de destaque:
+
+# Inteligência Artificial
+
+Explicar:
+
+* IA;
+* Machine Learning;
+* Deep Learning;
+* IA generativa;
+* LLMs;
+* embeddings;
+* agentes;
+* automação;
+* RAG;
+* APIs de IA;
+* prompts;
+* contexto;
+* tokens.
+
+---
+
+# 🧠 MACHINE LEARNING
+
+Explicar:
+
+* aprendizado supervisionado;
+* não supervisionado;
+* regressão;
+* classificação;
+* clustering;
+* árvores de decisão;
+* K-means;
+* DBSCAN;
+* SVM;
+* avaliação de modelos.
+
+Criar explicações visuais.
+
+---
+
+# 🛠️ FERRAMENTAS DE DESENVOLVIMENTO
+
+Criar uma biblioteca de ferramentas.
+
+Categorias:
+
+* IDEs;
+* editores;
+* terminais;
+* Git;
+* Docker;
+* bancos;
+* IA;
+* produtividade;
+* design;
+* APIs.
+
+Cada ferramenta deve possuir:
+
+* logo;
+* descrição;
+* para que serve;
+* quando utilizar;
+* vantagens;
+* desvantagens;
+* tutorial.
+
+---
+
+# 📰 NOTÍCIAS DE TECNOLOGIA
+
+Criar seção:
+
+# Tech News
+
+Categorias:
+
+* IA;
+* Apple;
+* Microsoft;
+* Google;
+* Linux;
+* Hardware;
+* Games;
+* Segurança;
+* Programação;
+* Startups.
+
+Adicionar:
+
+* data;
+* fonte;
+* categoria;
+* título;
+* resumo.
+
+Não inventar notícias.
+
+Preparar estrutura para integração futura com APIs/RSS.
+
+---
+
+# 📚 TUTORIAIS
+
+Criar área:
+
+# Tutoriais
+
+Exemplos:
+
+* Como instalar Node.js;
+* Como instalar Git;
+* Como criar GitHub;
+* Como criar projeto React;
+* Como criar API;
+* Como usar Docker;
+* Como criar banco PostgreSQL;
+* Como configurar SSH;
+* Como publicar projeto;
+* Como fazer deploy.
+
+---
+
+# 💡 DICAS RÁPIDAS
+
+Criar seção de conteúdos curtos:
+
+# Dica Tech
+
+Cards rápidos.
+
+Exemplos:
+
+**Dica Git**
+
+**Dica Windows**
+
+**Dica Linux**
+
+**Dica VS Code**
+
+**Dica JavaScript**
+
+**Dica React**
+
+**Dica Hardware**
+
+**Dica IA**
+
+Criar formato visual semelhante a pequenos insights.
+
+---
+
+# 📖 GLOSSÁRIO DE TECNOLOGIA
+
+Criar uma página:
+
+# Glossário Tech
+
+Permitir pesquisar termos.
+
+Exemplos:
+
+API
+
+Backend
+
+Frontend
+
+Framework
+
+Runtime
+
+Repository
+
+Commit
+
+Branch
+
+Container
+
+Database
+
+DNS
+
+IP
+
+CPU
+
+GPU
+
+RAM
+
+SSD
+
+LLM
+
+RAG
+
+ORM
+
+Cada termo deve possuir uma explicação simples.
+
+---
+
+# 🧪 LABORATÓRIO INTERATIVO
+
+Sempre que possível, criar conteúdos interativos.
+
+Exemplos:
+
+* editor HTML;
+* editor CSS;
+* editor JavaScript;
+* comandos Git simulados;
+* terminal Linux simulado;
+* calculadora de fonte;
+* comparador de hardware;
+* visualizador de arquitetura;
+* simulador de rede.
+
+O objetivo é fazer o visitante **aprender fazendo**.
+
+---
+
+# 📊 COMPARADORES
+
+Criar componentes para comparar:
+
+* linguagens;
+* frameworks;
+* bancos;
+* processadores;
+* placas de vídeo;
+* SSDs;
+* ferramentas;
+* sistemas operacionais.
+
+Exemplo:
+
+**JavaScript vs TypeScript**
+
+**React vs Vue**
+
+**PostgreSQL vs MySQL**
+
+**HDD vs SSD**
+
+**SSD SATA vs NVMe**
+
+---
+
+# 🚀 PROJETOS
+
+Criar seção:
+
+# Meus Projetos
+
+Cada projeto deve possuir:
+
+* imagem;
+* nome;
+* descrição;
+* tecnologias;
+* GitHub;
+* demo;
+* status.
+
+Exemplo:
+
+# Cognia AI
+
+Projeto de inteligência artificial.
+
+Tecnologias:
+
+React
+
+TypeScript
+
+Node.js
+
+IA
+
+---
+
+# 💼 SERVIÇOS
+
+Criar:
+
+# Como posso ajudar?
+
+Serviços:
+
+* Desenvolvimento Web;
+* Desenvolvimento Full Stack;
+* Desenvolvimento de sistemas;
+* Integração de APIs;
+* Inteligência Artificial;
+* Automação;
+* Consultoria em tecnologia;
+* Suporte técnico;
+* Conteúdo tecnológico;
+* Projetos personalizados.
+
+---
+
+# 🏢 ÁREA PARA EMPRESAS
+
+Criar seção especialmente voltada para empresas:
+
+# Sua empresa precisa de tecnologia?
+
+Texto:
+
+**Vamos conversar sobre seu projeto, solução, parceria ou oportunidade.**
+
+Botões:
+
+**Entrar em contato**
+
+**Enviar proposta**
+
+**Falar pelo e-mail**
+
+E-mail:
+
+**[germano.dsneto@gmail.com](mailto:germano.dsneto@gmail.com)**
+
+---
+
+# 📩 CONTATO
+
+Criar formulário:
+
+Nome
+
+E-mail
+
+Empresa
+
+Telefone opcional
+
+Assunto
+
+Mensagem
+
+Botão:
+
+**Enviar mensagem**
+
+Também mostrar:
+
+**[germano.dsneto@gmail.com](mailto:germano.dsneto@gmail.com)**
+
+---
+
+# 📱 REDES SOCIAIS
+
+Utilizar os logos oficiais/exatos.
+
+## LinkedIn
+
+https://www.linkedin.com/in/germano-neto-8036283b6/
+
+## Instagram
+
+https://www.instagram.com/germano.https/
+
+## GitHub
+
+https://github.com/GermanoDionisio
+
+Não utilizar emojis como substituição das logos.
+
+Utilizar SVGs reconhecidos/oficiais.
+
+Criar cards animados.
+
+---
+
+# 📸 DESTAQUES
+
+Criar uma área inspirada nos destaques do Instagram.
+
+Categorias:
+
+* Setup
+* Contato
+* Rotina
+* Conquistas
+* Faculdade
+* Agentes de IA
+* Estudos
+* Projetos
+* Ferramentas
+* Tecnologia
+
+Cada um deve possuir uma página/modal própria.
+
+---
+
+# 📈 TIMELINE
+
+Criar:
+
+# Minha jornada na tecnologia
+
+Linha do tempo animada.
+
+A linha deve crescer conforme o usuário rola.
+
+Os eventos entram progressivamente.
+
+---
+
+# 📊 ESTATÍSTICAS
+
+Criar números animados.
+
+Exemplos:
+
+**Projetos**
+
+**Tecnologias**
+
+**Conteúdos**
+
+**Experiências**
+
+Não inventar valores.
+
+Deixar configurável.
+
+---
+
+# 🔎 PESQUISA GLOBAL
+
+Criar busca global.
+
+O usuário deve poder pesquisar:
+
+* linguagens;
+* tecnologias;
+* artigos;
+* tutoriais;
+* projetos;
+* ferramentas;
+* termos.
+
+Exemplo:
+
+Pesquisar:
+
+**Git**
+
+Retornar:
+
+* Git básico;
+* Git avançado;
+* GitHub;
+* conflitos;
+* branches;
+* comandos.
+
+---
+
+# 📱 RESPONSIVIDADE
+
+O site precisa ser excelente em:
+
+* desktop;
+* notebook;
+* tablet;
+* celular.
+
+No mobile:
+
+* adaptar animações;
+* reduzir partículas;
+* adaptar navbar;
+* manter fundo animado;
+* manter interações;
+* manter legibilidade.
+
+---
+
+# ♿ ACESSIBILIDADE
+
+Implementar:
+
+* HTML semântico;
+* contraste;
+* labels;
+* alt;
+* teclado;
+* focus;
+* aria;
+* prefers-reduced-motion.
+
+---
+
+# 🔍 SEO
+
+Criar SEO completo.
+
+Title:
+
+**Germano.HTTPS | Tecnologia, Desenvolvimento e Inovação**
+
+Description:
+
+**Germano.HTTPS — conteúdos, programação, inteligência artificial, hardware, suporte técnico, desenvolvimento e tecnologia.**
+
+Criar:
+
+* Open Graph;
+* Twitter Cards;
+* sitemap;
+* robots;
+* URLs amigáveis;
+* schema.org.
+
+---
+
+# 🧱 ARQUITETURA DO PROJETO
+
+Utilizar arquitetura profissional.
+
+Preferência:
+
+* React;
+* TypeScript;
+* Vite ou Next.js;
+* Tailwind CSS;
+* Framer Motion;
+* Lucide;
+* biblioteca performática de partículas.
+
+Estruturar:
+
+```text
+src/
+├── components/
+├── pages/
+├── sections/
+├── layouts/
+├── data/
+├── hooks/
+├── utils/
+├── assets/
+├── styles/
+├── animations/
+└── services/
+```
+
+---
+
+# 🗂️ DADOS
+
+Separar conteúdo em arquivos:
+
+```text
+data/
+├── technologies.ts
+├── languages.ts
+├── tutorials.ts
+├── articles.ts
+├── projects.ts
+├── hardware.ts
+├── networking.ts
+├── git.ts
+├── artificial-intelligence.ts
+├── services.ts
+└── socials.ts
+```
+
+Isso permitirá adicionar conteúdo facilmente.
+
+---
+
+# 🔮 FUTURA ÁREA ADMINISTRATIVA
+
+Preparar arquitetura para futuramente criar:
+
+`/admin`
+
+Onde eu possa:
+
+* criar artigos;
+* editar artigos;
+* excluir artigos;
+* criar tutoriais;
+* adicionar projetos;
+* editar projetos;
+* adicionar tecnologias;
+* atualizar informações;
+* adicionar imagens;
+* gerenciar categorias.
+
+Preparar para integração com:
+
+* Supabase;
+* PostgreSQL;
+* API própria;
+* CMS.
+
+---
+
+# ⚡ PERFORMANCE
+
+Mesmo com o enorme número de animações:
+
+O site precisa ser rápido.
+
+Utilizar:
+
+* lazy loading;
+* code splitting;
+* otimização de imagens;
+* GPU acceleration;
+* Intersection Observer;
+* requestAnimationFrame quando necessário;
+* redução de partículas em dispositivos fracos.
+
+NÃO utilizar animações pesadas desnecessariamente.
+
+---
+
+# 🎨 DIREÇÃO ARTÍSTICA FINAL
+
+Quero uma mistura de:
+
+**Tecnologia futurista**
+
+*
+
+**Minimalismo premium**
+
+*
+
+**Cyber aesthetic**
+
+*
+
+**Glassmorphism**
+
+*
+
+**Interface de produto tecnológico**
+
+*
+
+**Portal educacional moderno**
+
+*
+
+**Identidade pessoal de desenvolvedor**
+
+O resultado deve parecer um produto digital profissional.
+
+---
+
+# 🚨 REGRA ABSOLUTA SOBRE ANIMAÇÕES
+
+Repito:
+
+## O SITE INTEIRO DEVE SER ANIMADO.
+
+Não quero apenas:
+
+* Hero animado;
+* três cards animados;
+* footer estático.
+
+Quero:
+
+**ANIMAÇÃO DO PRIMEIRO PIXEL AO ÚLTIMO PIXEL.**
+
+O background deve continuar animado.
+
+As seções devem reagir ao scroll.
+
+Os cards devem reagir ao mouse.
+
+Os elementos devem possuir microinterações.
+
+Os títulos devem entrar com animação.
+
+As imagens devem possuir movimento.
+
+Os conteúdos devem possuir transições.
+
+A timeline deve reagir ao scroll.
+
+As estatísticas devem contar.
+
+O background deve mudar suavemente conforme a navegação.
+
+Os botões devem reagir.
+
+Os menus devem reagir.
+
+Os filtros devem reagir.
+
+Os modais devem reagir.
+
+O footer também deve possuir animação.
+
+---
+
+# 🏆 RESULTADO QUE ESPERO
+
+Quando alguém acessar:
+
+**Germano.HTTPS**
+
+deve pensar:
+
+> "Esse não é apenas um portfólio. É uma plataforma completa de tecnologia."
+
+Quero que o visitante consiga entrar no site sem conhecer programação e aprender:
+
+**o que é HTML**
+
+**o que é CSS**
+
+**o que é JavaScript**
+
+**o que é TypeScript**
+
+**o que é Python**
+
+**o que é SQL**
+
+e depois avançar para:
+
+**React**
+
+**Node.js**
+
+**Docker**
+
+**PostgreSQL**
+
+**Git**
+
+**GitHub**
+
+**Linux**
+
+**Redes**
+
+**Hardware**
+
+**Arquitetura de computadores**
+
+**Suporte técnico**
+
+**Inteligência Artificial**
+
+**Machine Learning**
+
+e muitos outros assuntos.
+
+Quero que o site tenha potencial para crescer continuamente e receber centenas de conteúdos.
+
+---
+
+# 🔥 FRASE CENTRAL DA MARCA
+
+Utilizar como conceito principal:
+
+# APRENDER. CRIAR. COMPARTILHAR.
+
+Complemento:
+
+**Tecnologia na prática. Conhecimento sem limites.**
+
+---
+
+# REGRA FINAL
+
+Não entregar um template genérico.
+
+Não criar uma landing page simples.
+
+Não deixar áreas vazias.
+
+Não utilizar animações exageradas.
+
+Não criar um site estático.
+
+Não limitar o conteúdo a programação.
+
+Criar uma **plataforma completa de conhecimento tecnológico**, com estética futurista premium, animações profissionais do início ao fim, fundo global animado, navegação fluida, conteúdo educacional, portfólio, projetos, serviços, redes sociais e contato profissional.
+
+A experiência deve ser:
+
+# PROFISSIONAL + FUTURISTA + INTERATIVA + EDUCACIONAL + PREMIUM + TECNOLÓGICA
+
+## GERMANO.HTTPS
+
+### DIONISIO TECH
+
+**Aprender. Criar. Compartilhar.**
